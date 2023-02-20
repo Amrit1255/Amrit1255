@@ -2,7 +2,15 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=0e75b6&style=flat" alt="amrit1255" /> </p>
 
-- 📫 How to reach me **amrit.kumar.tiwari911@gmail.com**
+- 🌱 I’m currently learning **Web Development
+
+- 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
+
+- 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
+
+- 👨‍💻 All of my projects are available here at my GitHub account
+
+- 📫 How to reach me **amrit.kumar.tiwari911@gmail.com**check out **https://amrittiw.bio.link/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
