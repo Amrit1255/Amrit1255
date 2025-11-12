@@ -1,33 +1,130 @@
-<h1 align="center">Hi 👋, I'm Amrit Tiwari</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=0e75b6&style=flat" alt="amrit1255" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Web Development
+# 👨‍💻 Amrit Tiwari
 
-- 👯 I’m looking for **Software Development Engineering(SDE)/ Web Development Internship opportunities**
+### Software Engineer | Full Stack Developer | Problem Solver
 
-- 🌱 Currently pursuing B.Tech in Computer Science & Engneering (2020-2024)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available here at my GitHub account
+[![Profile Views](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20Views&color=00ff00&style=for-the-badge)](https://github.com/amrit1255)
 
-- 📫 How to reach me **amrit.kumar.tiwari911@gmail.com**check out **https://amrittiw.bio.link/**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amritti88823594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritti88823594" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-kumar-tiwari-b69aa720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrit-kumar-tiwari-b69aa720a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amrit.tiwari.560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amrit.tiwari.560" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/amrit_1243" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amrit_1243" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/amrit_kumar_tiw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amrit_kumar_tiw1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user2772i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user2772i/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amritkumartiwari911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/amritkumartiwari911" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit1255&show_icons=true&locale=en&layout=compact" alt="amrit1255" /></p>
+```javascript
+const amrit = {
+    location: "India",
+    education: "B.Tech in Computer Science & Engineering (2020-2024)",
+    currentFocus: "Web Development & Software Engineering",
+    lookingFor: "SDE / Web Development Internship Opportunities",
+    lifePhilosophy: "Code, Learn, Repeat 🔄"
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1255&show_icons=true&locale=en" alt="amrit1255" /></p>
+- 🌱 Currently mastering **Full Stack Web Development**
+- 💡 Passionate about building scalable and efficient solutions
+- 🎯 Open to **Software Development Engineering (SDE)** and **Web Development Internships**
+- 📧 Reach me at: **amrit.kumar.tiwari911@gmail.com**
+- 🔗 Connect with me: **[amrittiw.bio.link](https://amrittiw.bio.link/)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1255&" alt="amrit1255" /></p>
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=00ff00)](https://www.linkedin.com/in/amrit-kumar-tiwari-b69aa720a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=00ff00)](https://twitter.com/amritti88823594)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=00ff00)](https://www.facebook.com/amrit.tiwari.560)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=00ff00)](https://leetcode.com/user2772i/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&color=00ff00)](https://www.codechef.com/users/amrit_1243)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&color=00ff00)](https://www.hackerrank.com/amrit_kumar_tiw1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=00ff00)](https://auth.geeksforgeeks.org/user/amritkumartiwari911)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=00ff00)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=00ff00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=00ff00)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=00ff00)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00ff00)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=00ff00)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=00ff00)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=00ff00)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=00ff00)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00ff00)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=00ff00)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=00ff00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=00ff00)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=00ff00)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrit1255&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1255&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amrit1255&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/amrit1255)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Amrit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amrit1255&theme=github-compact&bg_color=0D1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/amrit1255)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=00ff00&author_color=00ff00&border_color=00ff00)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Show some love by starring ⭐ some repositories!
+
+**"The only way to do great work is to love what you do." - Steve Jobs**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=00ff00&animation=twinkling" />
+
+</div>
