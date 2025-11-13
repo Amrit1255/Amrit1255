@@ -59,14 +59,6 @@ All of my projects are available here on my GitHub account. Feel free to explore
 
 ---
 
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=129990&height=100&section=footer" />
-</p>
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats
