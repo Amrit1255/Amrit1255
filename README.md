@@ -78,7 +78,7 @@ All of my projects are available here on **[GitHub](https://github.com/amrit1255
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrit1255&show_icons=true&theme=vue&hide_border=true" alt="Amrit's GitHub stats" /><br/>
-  <img src="https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true" alt="Amrit's GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -94,12 +94,3 @@ All of my projects are available here on **[GitHub](https://github.com/amrit1255
 
 ![](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=129990&style=flat)
 [![](https://visitcount.itsvg.in/api?id=amrit1255&icon=0&color=10)](https://visitcount.itsvg.in)
-
----
-
-### 🧩 Resources
-- [Icons](https://simpleicons.org/)
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Streak Stats](https://git.io/streak-stats)
-- [Shields.io](https://shields.io/)
-- [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
