@@ -52,7 +52,7 @@ All of my projects are available here on my GitHub account. Feel free to explore
 ![](https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=129990&fire=129990&currStreakLabel=129990)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&theme=vue&hide_border=true&layout=compact&title_color=129990&text_color=129990&icon_color=129990)<br/>
 [![](https://visitcount.itsvg.in/api?id=Amrit1255&icon=0&color=10)](https://visitcount.itsvg.in)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=vue)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=129990&style=flat)
 
 ---
