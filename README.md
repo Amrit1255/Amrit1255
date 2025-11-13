@@ -77,9 +77,9 @@ All of my projects are available here on **[GitHub](https://github.com/amrit1255
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit1255&theme=vue&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=129990&fire=129990&currStreakLabel=129990" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&theme=vue&hide_border=true&layout=compact&title_color=129990&text_color=129990" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amrit1255&show_icons=true&theme=vue&hide_border=true" alt="Amrit's GitHub stats" /><br/>
+  <img src="https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
