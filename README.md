@@ -46,21 +46,17 @@ All of my projects are available here on my GitHub account. Feel free to explore
 <a href="https://auth.geeksforgeeks.org/user/amritkumartiwari911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritkumartiwari911" height="30" width="40" /></a>
 </p>
 
-## &#x1f4c8; My GitHub Stats
+# 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=129990&style=flat)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amrit1255&theme=sea&date_format=M%20j%5B%2C%20Y%5D&ring=129990&fire=129990&currStreakLabel=129990)](https://git.io/streak-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit1255&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=129990&text_color=129990&icon_color=129990" alt="amrit1255" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1255&show_icons=true&locale=en&theme=tokyonight&title_color=129990&text_color=ffffff&icon_color=129990&ring_color=129990" alt="amrit1255" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1255&theme=tokyonight&ring=129990&fire=129990&currStreakLabel=129990" alt="amrit1255" /></p>
+![](https://github-readme-stats.vercel.app/api?username=amrit1255&theme=vue&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=amrit1255&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=129990&fire=129990&currStreakLabel=129990)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&theme=vue&hide_border=true&layout=compact&title_color=129990&text_color=129990&icon_color=129990)<br/>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amrit1255/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 ![snake gif](https://raw.githubusercontent.com/amrit1255/amrit1255/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=129990&style=flat)
 
 ---
 
