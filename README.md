@@ -53,8 +53,6 @@ All of my projects are available here on my GitHub account. Feel free to explore
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1255&theme=vue&hide_border=true&layout=compact&title_color=129990&text_color=129990&icon_color=129990)<br/>
 [![](https://visitcount.itsvg.in/api?id=Amrit1255&icon=0&color=10)](https://visitcount.itsvg.in)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amrit1255/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-
 ![](https://komarev.com/ghpvc/?username=amrit1255&label=Profile%20views&color=129990&style=flat)
 
 ---
