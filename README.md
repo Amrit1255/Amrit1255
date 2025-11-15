@@ -82,7 +82,6 @@ you can check out my portfolio and projects here: [amrittiw.bio.link](https://am
 
 ---
 
-<!-- Resources -->
 
 <!-- Icons: https://simpleicons.org/
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats
